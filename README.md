@@ -6,7 +6,7 @@ Phone: +91 7019347186
 
 ## Profile Summary / Projects
 
-Technologies: C, C++, JAVA, HTML, CSS, Javascript, REST, JSON, Git(version control).
+Technologies: C, C++, JAVA, HTML, CSS, Javascript,Python, REST, JSON, Git(version control).
 
 1. Successfully completed project work on “PERSONAL WEB REVISITATION BY CONTEXT AND CONTENT KEYWORDS WITH RELEVANCE FEEDBACK”
     - Hardware requirements
