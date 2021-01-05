@@ -1,16 +1,29 @@
-### Hi there 👋
+# Harish Kumar
 
-<!--
-**Harryeesh/Harryeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email: harry33sh@gmail.com
 
-Here are some ideas to get you started:
+Phone: +91 7019347186
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile Summary / Projects
+
+Technologies: C, C++, JAVA, HTML, CSS, Javascript, REST, JSON, Git(version control).
+
+1. Successfully completed project work on “PERSONAL WEB REVISITATION BY CONTEXT AND CONTENT KEYWORDS WITH RELEVANCE FEEDBACK”
+    - Hardware requirements
+      1. System : Pentium IV 2.4GHz.
+      1. Hard Disk : 40GB
+      1. Floppy Drive : 1.44 Mb.
+      1. RAM : 512MB
+    - Software requirements
+      1. Operting System : Windows 7
+      1. Coding Langauge : JAVA/J2EE
+      1. Data Basw : MySQL
+    
+    * 
+
+1. Successfully completed the Hacktober fest challenge (2019)
+
+
+
+## Academic Qualification
+BE(CSE) , VTU
