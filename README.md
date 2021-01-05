@@ -21,8 +21,6 @@ Technologies: C, C++, JAVA, HTML, CSS, Javascript, REST, JSON, Git(version contr
     
     * 
 
-1. Successfully completed the Hacktober fest challenge (2019)
-
 
 
 ## Academic Qualification
